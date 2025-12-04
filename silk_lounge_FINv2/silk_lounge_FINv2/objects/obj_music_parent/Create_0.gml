@@ -1,0 +1,2 @@
+//musicPlaying = false
+audio_play_sound(snd_title, 1, true)
