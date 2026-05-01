@@ -2,6 +2,8 @@
 
 **Silk Lounge** is a 2D platformer set inside a stylish 1930s speakeasy world, where a spider-themed protagonist moves through a moody lounge filled with gang tension, cops, and web-slinging movement. The game blends platforming, themed level design, enemy encounters, and atmospheric visuals into a short but polished GameMaker experience.
 
+https://collectorsincorporated.itch.io/silk-lounge
+
 ---
 
 ## 🎮 About the Game
